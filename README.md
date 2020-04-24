@@ -15,4 +15,4 @@ The solution is packed in a docker image so to start the application use the fol
 -                  sudo docker-compose up -d --build
 -                  chmod +x run
 -                  ./run
-The API documentation of all the endpoints is present within the application in the form of a pdf.
+The API documentation of all the endpoints is present within the application in the form of a pdf(API Documentation).
