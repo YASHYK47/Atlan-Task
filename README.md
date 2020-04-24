@@ -11,7 +11,7 @@ I implemented this application through which the user can now stop the long-runn
 Requirements :- docker and docker-compose 
               
 The solution is packed in a docker image so to start the application use the following command :-
-                  sudo docker-compose up -d --build
-                  chmod +x run
-                  ./run
+-                  sudo docker-compose up -d --build
+-                  chmod +x run
+-                  ./run
 The API documentation of all the endpoints is present within the application in the form of a pdf.
